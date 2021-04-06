@@ -81,7 +81,7 @@ export default function Button() {
 ```
 
 ```jsx
-// pages/index.js
+// pages/index.js (pay attention to the '/' slash before @ inside the import path)
 import Button from '@/components/button'
 
 export default function HomePage() {
